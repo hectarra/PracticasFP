@@ -12,7 +12,7 @@ int main()
 	ni = leernumentero();
 	resultado = sumdigitos(ni);
 	mostrarresult(ni, resultado);
-	system("pause");
+	system("pause"); // Esto hay que borralo que en LINUX no va xD
 	return 0;
 }
 

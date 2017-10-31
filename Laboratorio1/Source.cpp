@@ -3,7 +3,7 @@ using namespace std;
 
 int leernumentero();
 int sumdigitos(int ni);
-void mostrarresult(int ni, int resultado);
+void mostrarresult(int ni, int resultado); // dontkare cojones dontkare ah y multiplexor
 
 int main()
 {
